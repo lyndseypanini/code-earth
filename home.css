@@ -157,7 +157,7 @@ body {
 }
 
 .infographic1 {
-   background-image: url('file:///Users/lyndseynarvaez/Desktop/code-earth/happy%20dolphin.png');
+   background-image: url('https://i.imgur.com/Up66NBb.png');
    max-width: 350px;
    height: 350px;
    width: 350px;
@@ -166,13 +166,13 @@ body {
 }
 
 .infographic1:hover {
-   background-image: url('file:///Users/lyndseynarvaez/Desktop/code-earth/sad%20dolphin.png');
+   background-image: url('https://i.imgur.com/ejPgYaP.png');
    opacity: 0.9;
    border: 3px solid white;
 }
 
 .infographic2 {
-   background-image: url('file:///Users/lyndseynarvaez/Desktop/code-earth/happy%20koala.png');
+   background-image: url('https://i.imgur.com/YcNTmu9.png');
    max-width: 350px;
    height: 350px;
    width: 350px;
@@ -181,13 +181,13 @@ body {
 }
 
 .infographic2:hover {
-   background-image: url('file:///Users/lyndseynarvaez/Desktop/code-earth/sad%20koala.png');
+   background-image: url('https://i.imgur.com/TwXCFwf.png');
    opacity: 0.9;
    border: 3px solid white;
 }
 
 .infographic3 {
-   background-image: url('file:///Users/lyndseynarvaez/Desktop/code-earth/happy%20icecap.png');
+   background-image: url('https://i.imgur.com/afPUWwT.png');
    max-width: 350px;
    height: 350px;
    width: 350px;
@@ -196,7 +196,7 @@ body {
 }
 
 .infographic3:hover {
-   background-image: url('file:///Users/lyndseynarvaez/Desktop/code-earth/sad%20icecap.png');
+   background-image: url('https://i.imgur.com/m4iDWpz.png');
    opacity: 0.9;
    border: 3px solid white;
 }

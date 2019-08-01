@@ -115,12 +115,12 @@ h2 {
   height: auto;
 }
 .pic1 {
-  background-image: url('file:///Users/lyndseynarvaez/Desktop/code-earth/trash.png');
+  background-image: url('https://i.imgur.com/k1YxAyg.png');
   height:420px;
   width: 630px;
 }
 .pic1:hover {
-  background-image: url('file:///Users/lyndseynarvaez/Desktop/code-earth/kitchen-graph.png');
+  background-image: url('https://i.imgur.com/lzehXNQ.png');
 }
 .pic2 {
   margin-right: 110px;
